@@ -1,5 +1,7 @@
 github.com/Epistemic-Technology/zotero v0.0.0-20251006194159-89568f216b93 h1:cV8AF7E81mggFKPWk9s2wfSox4rq1dJxVFO/TGQ6vg0=
 github.com/Epistemic-Technology/zotero v0.0.0-20251006194159-89568f216b93/go.mod h1:iBc2KyTGeI80ebyxGaf2/C3HwTnLnNILOwTCqEdZHDs=
+github.com/Epistemic-Technology/zotero v0.1.0 h1:Mk3gIfKl7SJXSSuzEMN4RLnZEYsZgig58w9D+PFntck=
+github.com/Epistemic-Technology/zotero v0.1.0/go.mod h1:iBc2KyTGeI80ebyxGaf2/C3HwTnLnNILOwTCqEdZHDs=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
 github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
 github.com/google/jsonschema-go v0.3.0 h1:6AH2TxVNtk3IlvkkhjrtbUc4S8AvO0Xii0DxIygDg+Q=
